@@ -1,0 +1,2 @@
+A file
+file A is edited from b1
